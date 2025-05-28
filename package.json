@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^5.3.1",
+    "@clerk/clerk-react": "^5.31.1",
     "@supabase/supabase-js": "^2.44.4",
     "@tanstack/react-query": "^5.51.21",
     "connectkit": "^1.8.2",
